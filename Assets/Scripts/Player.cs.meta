@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e3553a58e12b564ea4ea1201ebc2550
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - bullet: {fileID: 2606104119239699930, guid: 436c5acc9dbeaac46af480e63a07dfc1, type: 3}
+  - spriteRenderer: {instanceID: 0}
+  - spirteRenderer2: {instanceID: 0}
+  - spirteRenderer3: {instanceID: 0}
+  - spirteRenderer4: {instanceID: 0}
+  - anim: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
